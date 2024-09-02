@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +32,16 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
