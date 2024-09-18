@@ -1,9 +1,5 @@
-class Solution(object):
-    def canJump(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
         # Initialize the maximum reachable index
         max_reach = 0
 
