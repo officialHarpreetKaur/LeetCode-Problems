@@ -57,5 +57,6 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/officialHarpreetKaur/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
